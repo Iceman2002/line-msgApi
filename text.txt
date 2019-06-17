@@ -93,11 +93,4 @@ Complain about that here:
 
 https://github.com/timcharper/git_osx_installer/issues
 
-Handling of international characters in file is broken
-------------------------------------------------------
 
-If you would like some validation, read this: http://is.gd/5NAN9.
-You're not alone.
-
-This is not an issue with Git, not the installer. Apparently
-subversion has it too.
